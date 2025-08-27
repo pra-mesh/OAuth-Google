@@ -19,7 +19,7 @@ export function LoginPage() {
   }
 
   if (isAuthenticated) {
-    return <Navigate to={from} replace />;
+    return <Navigate to="/todos" replace />;
   }
 
   return (
