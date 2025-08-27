@@ -19,7 +19,7 @@ Edit `AuthApi/appsettings.json`:
 "Jwt": {
   "Issuer": "AuthApi",
   "Audience": "AuthApiAudience",
-  "Key": "CHANGE_ME_SUPER_LONG_SECURE_KEY_!1234567890",
+  "Key": "CHANGE_ME_Key",
   "AccessTokenMinutes": 30,
   "RefreshTokenDays": 7
 },
