@@ -7,6 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
+        background: '#ffffff',
+        foreground: '#1a202c',
+        border: '#e2e8f0',
+        ring: '#3b82f6',
         primary: {
           50: '#eff6ff',
           500: '#3b82f6',
